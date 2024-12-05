@@ -1,0 +1,1 @@
+print("Bienvenid@"+input("Ingrese nombre: ")+"a la tienda")
